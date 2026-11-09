@@ -28,7 +28,7 @@
   {
    "name": "НПА РФ",
    "slug": "npa-rf",
-   "count": 6
+   "count": 7
   },
   {
    "name": "Пострегистрационный мониторинг",
@@ -2321,6 +2321,16 @@
    "urlSlug": "prikaz181n",
    "fileUrl": "/files/npa-rf/prikaz181n.pdf",
    "pageUrl": "/npa-rf/prikaz181n/"
+  },
+  {
+   "category": "НПА РФ",
+   "categorySlug": "npa-rf",
+   "docType": "Постановление",
+   "title": "Постановление Правительства РФ от 23.12.2024 № 1875 (ред. от 01.09.2026) — меры национального режима при закупках. Источник: zakonrf.info (неофициальная публикация; официальный текст — pravo.gov.ru)",
+   "year": "2024",
+   "urlSlug": "postanovlenie-pravitelstva-rf-ot-23-12-2024-n-1875-red-01-09-2026",
+   "fileUrl": "/files/npa-rf/postanovlenie-pravitelstva-rf-ot-23-12-2024-n-1875-red-01-09-2026.html",
+   "pageUrl": "/npa-rf/postanovlenie-pravitelstva-rf-ot-23-12-2024-n-1875-red-01-09-2026/"
   },
   {
    "category": "ПО с ИИ",
