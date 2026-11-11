@@ -28,7 +28,7 @@
   {
    "name": "НПА РФ",
    "slug": "npa-rf",
-   "count": 7
+   "count": 8
   },
   {
    "name": "Пострегистрационный мониторинг",
@@ -2331,6 +2331,16 @@
    "urlSlug": "postanovlenie-pravitelstva-rf-ot-23-12-2024-n-1875-red-01-09-2026",
    "fileUrl": "/files/npa-rf/postanovlenie-pravitelstva-rf-ot-23-12-2024-n-1875-red-01-09-2026.html",
    "pageUrl": "/npa-rf/postanovlenie-pravitelstva-rf-ot-23-12-2024-n-1875-red-01-09-2026/"
+  },
+  {
+   "category": "НПА РФ",
+   "categorySlug": "npa-rf",
+   "docType": "Постановление",
+   "title": "Постановление Правительства РФ от 10.07.2019 № 878 (ред. от 13.04.2026) — Правила формирования и ведения единого реестра российской радиоэлектронной продукции. Источник: zakonrf.info (неофициальная публикация; официальный текст — pravo.gov.ru)",
+   "year": "2019",
+   "urlSlug": "postanovlenie-pravitelstva-rf-ot-10-07-2019-n-878-red-13-04-2026",
+   "fileUrl": "/files/npa-rf/postanovlenie-pravitelstva-rf-ot-10-07-2019-n-878-red-13-04-2026.html",
+   "pageUrl": "/npa-rf/postanovlenie-pravitelstva-rf-ot-10-07-2019-n-878-red-13-04-2026/"
   },
   {
    "category": "ПО с ИИ",
