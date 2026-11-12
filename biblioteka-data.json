@@ -28,7 +28,7 @@
   {
    "name": "НПА РФ",
    "slug": "npa-rf",
-   "count": 8
+   "count": 9
   },
   {
    "name": "Пострегистрационный мониторинг",
@@ -2341,6 +2341,16 @@
    "urlSlug": "postanovlenie-pravitelstva-rf-ot-10-07-2019-n-878-red-13-04-2026",
    "fileUrl": "/files/npa-rf/postanovlenie-pravitelstva-rf-ot-10-07-2019-n-878-red-13-04-2026.html",
    "pageUrl": "/npa-rf/postanovlenie-pravitelstva-rf-ot-10-07-2019-n-878-red-13-04-2026/"
+  },
+  {
+   "category": "НПА РФ",
+   "categorySlug": "npa-rf",
+   "docType": "Приказ",
+   "title": "Приказ ТПП РФ от 30.05.2018 № 52 (ред. от 29.07.2026) — Положение о порядке выдачи документов для целей подтверждения производства промышленной продукции. Источник: rulaws.ru (неофициальная публикация; официальный текст — tpprf.ru)",
+   "year": "2018",
+   "urlSlug": "prikaz-tpp-rf-ot-30-05-2018-n-52-red-29-07-2026",
+   "fileUrl": "/files/npa-rf/prikaz-tpp-rf-ot-30-05-2018-n-52-red-29-07-2026.html",
+   "pageUrl": "/npa-rf/prikaz-tpp-rf-ot-30-05-2018-n-52-red-29-07-2026/"
   },
   {
    "category": "ПО с ИИ",
