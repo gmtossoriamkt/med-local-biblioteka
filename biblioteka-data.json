@@ -28,7 +28,7 @@
   {
    "name": "НПА РФ",
    "slug": "npa-rf",
-   "count": 9
+   "count": 11
   },
   {
    "name": "Пострегистрационный мониторинг",
@@ -2351,6 +2351,26 @@
    "urlSlug": "prikaz-tpp-rf-ot-30-05-2018-n-52-red-29-07-2026",
    "fileUrl": "/files/npa-rf/prikaz-tpp-rf-ot-30-05-2018-n-52-red-29-07-2026.html",
    "pageUrl": "/npa-rf/prikaz-tpp-rf-ot-30-05-2018-n-52-red-29-07-2026/"
+  },
+  {
+   "category": "НПА РФ",
+   "categorySlug": "npa-rf",
+   "docType": "Постановление",
+   "title": "Постановление Правительства РФ от 17.07.2015 № 719 (ред. от 14.11.2026) — подтверждение производства российской промышленной продукции. Источник: Контур.Экстерн (неофициальная публикация; официальный текст — pravo.gov.ru)",
+   "year": "2015",
+   "urlSlug": "postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026",
+   "fileUrl": "/files/npa-rf/postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026.html",
+   "pageUrl": "/npa-rf/postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026/"
+  },
+  {
+   "category": "НПА РФ",
+   "categorySlug": "npa-rf",
+   "docType": "Постановление",
+   "title": "Постановление Правительства РФ от 23.12.2024 № 1875 (ред. от 30.09.2026) — меры национального режима при закупках. Источник: Контур.Экстерн (неофициальная публикация; официальный текст — pravo.gov.ru)",
+   "year": "2024",
+   "urlSlug": "postanovlenie-pravitelstva-rf-ot-23-12-2024-n-1875-red-30-09-2026",
+   "fileUrl": "/files/npa-rf/postanovlenie-pravitelstva-rf-ot-23-12-2024-n-1875-red-30-09-2026.html",
+   "pageUrl": "/npa-rf/postanovlenie-pravitelstva-rf-ot-23-12-2024-n-1875-red-30-09-2026/"
   },
   {
    "category": "ПО с ИИ",
