@@ -28,7 +28,7 @@
   {
    "name": "НПА РФ",
    "slug": "npa-rf",
-   "count": 11
+   "count": 13
   },
   {
    "name": "Пострегистрационный мониторинг",
@@ -2356,11 +2356,31 @@
    "category": "НПА РФ",
    "categorySlug": "npa-rf",
    "docType": "Постановление",
-   "title": "Постановление Правительства РФ от 17.07.2015 № 719 (ред. от 14.11.2026) — подтверждение производства российской промышленной продукции. Источник: Контур.Экстерн (неофициальная публикация; официальный текст — pravo.gov.ru)",
+   "title": "Постановление Правительства РФ от 17.07.2015 № 719 (ред. от 14.11.2026) — подтверждение производства российской промышленной продукции: постановление, Правила ведения реестра, оглавление приложения со ссылками на разделы. Источник: Контур.Экстерн (неофициальная публикация; официальный текст — pravo.gov.ru)",
    "year": "2015",
    "urlSlug": "postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026",
    "fileUrl": "/files/npa-rf/postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026.html",
    "pageUrl": "/npa-rf/postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026/"
+  },
+  {
+   "category": "НПА РФ",
+   "categorySlug": "npa-rf",
+   "docType": "Постановление",
+   "title": "ПП № 719 (ред. от 14.11.2026) — раздел VII приложения «Медицинские изделия» и п. 33 примечаний (проходные баллы). Источник: Контур.Экстерн (неофициальная публикация; официальный текст — pravo.gov.ru)",
+   "year": "2015",
+   "urlSlug": "postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026-razdel-07",
+   "fileUrl": "/files/npa-rf/postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026-razdel-07.html",
+   "pageUrl": "/npa-rf/postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026-razdel-07/"
+  },
+  {
+   "category": "НПА РФ",
+   "categorySlug": "npa-rf",
+   "docType": "Постановление",
+   "title": "ПП № 719 (ред. от 14.11.2026) — примечания к приложению (сноски и проходные баллы по отраслям). Источник: Контур.Экстерн (неофициальная публикация; официальный текст — pravo.gov.ru)",
+   "year": "2015",
+   "urlSlug": "postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026-primechaniya",
+   "fileUrl": "/files/npa-rf/postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026-primechaniya.html",
+   "pageUrl": "/npa-rf/postanovlenie-pravitelstva-rf-ot-17-07-2015-n-719-red-14-11-2026-primechaniya/"
   },
   {
    "category": "НПА РФ",
